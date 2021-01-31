@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/BillGates
+/ElonMusk
+/.ipynb_checkpoints
+/OmRawal
+/log.txt
