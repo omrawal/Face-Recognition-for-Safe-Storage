@@ -353,3 +353,4 @@ MigrationBackup/
 /.ipynb_checkpoints
 /OmRawal
 /log.txt
+/.vscode
