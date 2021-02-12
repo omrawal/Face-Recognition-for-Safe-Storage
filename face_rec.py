@@ -103,3 +103,4 @@ def authenticateUser(imgPath,username):
 
 # save_user('known_faces/gates(3).jfif','BillGates')
 # authenticateUser('unknown_faces/Gates(2).jfif','BillGates')
+# authenticateUser('unknown_faces/gates_fake.jpg','BillGates')
